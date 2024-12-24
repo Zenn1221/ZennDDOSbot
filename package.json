@@ -1,0 +1,13 @@
+{
+  "name": "Zenn DDOS",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp dengan fitur tlsbypass",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^5.4.0",
+    "@hapi/boom": "^11.1.2"
+  }
+}
