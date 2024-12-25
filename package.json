@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^5.4.0",
-    "@hapi/boom": "^11.1.2"
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1"
   }
 }
