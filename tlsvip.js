@@ -5,7 +5,6 @@
  const url = require("url");
  const crypto = require("crypto");
  const fs = require("fs");
- const gradient = require ("gradient-string");
    var privacyPassSupport = true;
  
   lang_header = [     "he-IL,he;q=0.9,en-US;q=0.8,en;q=0.7",
